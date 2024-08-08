@@ -1,0 +1,19 @@
+.feedback {
+  margin-top: 20px;
+  font-size: 18px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 18px;
+  color: #666;
+}
+
